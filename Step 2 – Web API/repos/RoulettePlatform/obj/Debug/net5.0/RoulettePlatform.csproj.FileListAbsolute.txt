@@ -1,0 +1,36 @@
+C:\Users\rikus\Desktop\repos\RoulettePlatform\bin\Debug\net5.0\RoulettePlatform.deps.json
+C:\Users\rikus\Desktop\repos\RoulettePlatform\bin\Debug\net5.0\RoulettePlatform.dll
+C:\Users\rikus\Desktop\repos\RoulettePlatform\bin\Debug\net5.0\RoulettePlatform.pdb
+C:\Users\rikus\Desktop\repos\RoulettePlatform\obj\Debug\net5.0\RoulettePlatform.csproj.AssemblyReference.cache
+C:\Users\rikus\Desktop\repos\RoulettePlatform\obj\Debug\net5.0\RoulettePlatform.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rikus\Desktop\repos\RoulettePlatform\obj\Debug\net5.0\RoulettePlatform.AssemblyInfoInputs.cache
+C:\Users\rikus\Desktop\repos\RoulettePlatform\obj\Debug\net5.0\RoulettePlatform.AssemblyInfo.cs
+C:\Users\rikus\Desktop\repos\RoulettePlatform\obj\Debug\net5.0\RoulettePlatform.csproj.CoreCompileInputs.cache
+C:\Users\rikus\Desktop\repos\RoulettePlatform\obj\Debug\net5.0\RoulettePlatform.dll
+C:\Users\rikus\Desktop\repos\RoulettePlatform\obj\Debug\net5.0\refint\RoulettePlatform.dll
+C:\Users\rikus\Desktop\repos\RoulettePlatform\obj\Debug\net5.0\RoulettePlatform.pdb
+C:\Users\rikus\Desktop\repos\RoulettePlatform\obj\Debug\net5.0\ref\RoulettePlatform.dll
+C:\Users\rikus\Desktop\New folder\Step 2 – Web API\repos\RoulettePlatform\bin\Debug\net5.0\RoulettePlatform.deps.json
+C:\Users\rikus\Desktop\New folder\Step 2 – Web API\repos\RoulettePlatform\bin\Debug\net5.0\RoulettePlatform.dll
+C:\Users\rikus\Desktop\New folder\Step 2 – Web API\repos\RoulettePlatform\bin\Debug\net5.0\RoulettePlatform.pdb
+C:\Users\rikus\Desktop\New folder\Step 2 – Web API\repos\RoulettePlatform\obj\Debug\net5.0\RoulettePlatform.csproj.AssemblyReference.cache
+C:\Users\rikus\Desktop\New folder\Step 2 – Web API\repos\RoulettePlatform\obj\Debug\net5.0\RoulettePlatform.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rikus\Desktop\New folder\Step 2 – Web API\repos\RoulettePlatform\obj\Debug\net5.0\RoulettePlatform.AssemblyInfoInputs.cache
+C:\Users\rikus\Desktop\New folder\Step 2 – Web API\repos\RoulettePlatform\obj\Debug\net5.0\RoulettePlatform.AssemblyInfo.cs
+C:\Users\rikus\Desktop\New folder\Step 2 – Web API\repos\RoulettePlatform\obj\Debug\net5.0\RoulettePlatform.csproj.CoreCompileInputs.cache
+C:\Users\rikus\Desktop\New folder\Step 2 – Web API\repos\RoulettePlatform\obj\Debug\net5.0\RoulettePlatform.dll
+C:\Users\rikus\Desktop\New folder\Step 2 – Web API\repos\RoulettePlatform\obj\Debug\net5.0\refint\RoulettePlatform.dll
+C:\Users\rikus\Desktop\New folder\Step 2 – Web API\repos\RoulettePlatform\obj\Debug\net5.0\RoulettePlatform.pdb
+C:\Users\rikus\Desktop\New folder\Step 2 – Web API\repos\RoulettePlatform\obj\Debug\net5.0\ref\RoulettePlatform.dll
+C:\Users\rikus\Desktop\Assesment Rikus de Beer\Step 2 – Web API\repos\RoulettePlatform\bin\Debug\net5.0\RoulettePlatform.deps.json
+C:\Users\rikus\Desktop\Assesment Rikus de Beer\Step 2 – Web API\repos\RoulettePlatform\bin\Debug\net5.0\RoulettePlatform.dll
+C:\Users\rikus\Desktop\Assesment Rikus de Beer\Step 2 – Web API\repos\RoulettePlatform\bin\Debug\net5.0\RoulettePlatform.pdb
+C:\Users\rikus\Desktop\Assesment Rikus de Beer\Step 2 – Web API\repos\RoulettePlatform\obj\Debug\net5.0\RoulettePlatform.csproj.AssemblyReference.cache
+C:\Users\rikus\Desktop\Assesment Rikus de Beer\Step 2 – Web API\repos\RoulettePlatform\obj\Debug\net5.0\RoulettePlatform.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rikus\Desktop\Assesment Rikus de Beer\Step 2 – Web API\repos\RoulettePlatform\obj\Debug\net5.0\RoulettePlatform.AssemblyInfoInputs.cache
+C:\Users\rikus\Desktop\Assesment Rikus de Beer\Step 2 – Web API\repos\RoulettePlatform\obj\Debug\net5.0\RoulettePlatform.AssemblyInfo.cs
+C:\Users\rikus\Desktop\Assesment Rikus de Beer\Step 2 – Web API\repos\RoulettePlatform\obj\Debug\net5.0\RoulettePlatform.csproj.CoreCompileInputs.cache
+C:\Users\rikus\Desktop\Assesment Rikus de Beer\Step 2 – Web API\repos\RoulettePlatform\obj\Debug\net5.0\RoulettePlatform.dll
+C:\Users\rikus\Desktop\Assesment Rikus de Beer\Step 2 – Web API\repos\RoulettePlatform\obj\Debug\net5.0\refint\RoulettePlatform.dll
+C:\Users\rikus\Desktop\Assesment Rikus de Beer\Step 2 – Web API\repos\RoulettePlatform\obj\Debug\net5.0\RoulettePlatform.pdb
+C:\Users\rikus\Desktop\Assesment Rikus de Beer\Step 2 – Web API\repos\RoulettePlatform\obj\Debug\net5.0\ref\RoulettePlatform.dll

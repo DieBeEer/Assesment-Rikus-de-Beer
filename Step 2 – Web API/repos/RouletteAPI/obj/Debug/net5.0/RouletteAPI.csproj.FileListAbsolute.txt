@@ -1,0 +1,135 @@
+C:\Users\rikus\Desktop\repos\RouletteAPI\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\rikus\Desktop\repos\RouletteAPI\bin\Debug\net5.0\appsettings.json
+C:\Users\rikus\Desktop\repos\RouletteAPI\bin\Debug\net5.0\RouletteAPI.exe
+C:\Users\rikus\Desktop\repos\RouletteAPI\bin\Debug\net5.0\RouletteAPI.deps.json
+C:\Users\rikus\Desktop\repos\RouletteAPI\bin\Debug\net5.0\RouletteAPI.runtimeconfig.json
+C:\Users\rikus\Desktop\repos\RouletteAPI\bin\Debug\net5.0\RouletteAPI.runtimeconfig.dev.json
+C:\Users\rikus\Desktop\repos\RouletteAPI\bin\Debug\net5.0\RouletteAPI.dll
+C:\Users\rikus\Desktop\repos\RouletteAPI\bin\Debug\net5.0\RouletteAPI.pdb
+C:\Users\rikus\Desktop\repos\RouletteAPI\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\rikus\Desktop\repos\RouletteAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\rikus\Desktop\repos\RouletteAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\rikus\Desktop\repos\RouletteAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\rikus\Desktop\repos\RouletteAPI\obj\Debug\net5.0\RouletteAPI.csproj.AssemblyReference.cache
+C:\Users\rikus\Desktop\repos\RouletteAPI\obj\Debug\net5.0\RouletteAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rikus\Desktop\repos\RouletteAPI\obj\Debug\net5.0\RouletteAPI.AssemblyInfoInputs.cache
+C:\Users\rikus\Desktop\repos\RouletteAPI\obj\Debug\net5.0\RouletteAPI.AssemblyInfo.cs
+C:\Users\rikus\Desktop\repos\RouletteAPI\obj\Debug\net5.0\RouletteAPI.csproj.CoreCompileInputs.cache
+C:\Users\rikus\Desktop\repos\RouletteAPI\obj\Debug\net5.0\RouletteAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\rikus\Desktop\repos\RouletteAPI\obj\Debug\net5.0\RouletteAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\rikus\Desktop\repos\RouletteAPI\obj\Debug\net5.0\scopedcss\bundle\RouletteAPI.styles.css
+C:\Users\rikus\Desktop\repos\RouletteAPI\obj\Debug\net5.0\staticwebassets\RouletteAPI.StaticWebAssets.Manifest.cache
+C:\Users\rikus\Desktop\repos\RouletteAPI\obj\Debug\net5.0\staticwebassets\RouletteAPI.StaticWebAssets.Pack.cache
+C:\Users\rikus\Desktop\repos\RouletteAPI\obj\Debug\net5.0\staticwebassets\msbuild.RouletteAPI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\rikus\Desktop\repos\RouletteAPI\obj\Debug\net5.0\staticwebassets\msbuild.build.RouletteAPI.props
+C:\Users\rikus\Desktop\repos\RouletteAPI\obj\Debug\net5.0\staticwebassets\msbuild.buildMultiTargeting.RouletteAPI.props
+C:\Users\rikus\Desktop\repos\RouletteAPI\obj\Debug\net5.0\staticwebassets\msbuild.buildTransitive.RouletteAPI.props
+C:\Users\rikus\Desktop\repos\RouletteAPI\obj\Debug\net5.0\RouletteAPI.RazorTargetAssemblyInfo.cache
+C:\Users\rikus\Desktop\repos\RouletteAPI\obj\Debug\net5.0\RouletteAPI.csproj.CopyComplete
+C:\Users\rikus\Desktop\repos\RouletteAPI\obj\Debug\net5.0\RouletteAPI.dll
+C:\Users\rikus\Desktop\repos\RouletteAPI\obj\Debug\net5.0\refint\RouletteAPI.dll
+C:\Users\rikus\Desktop\repos\RouletteAPI\obj\Debug\net5.0\RouletteAPI.pdb
+C:\Users\rikus\Desktop\repos\RouletteAPI\obj\Debug\net5.0\RouletteAPI.genruntimeconfig.cache
+C:\Users\rikus\Desktop\repos\RouletteAPI\obj\Debug\net5.0\ref\RouletteAPI.dll
+C:\Users\rikus\Desktop\repos\RouletteAPI\bin\Debug\net5.0\Dapper.dll
+C:\Users\rikus\Desktop\repos\RouletteAPI\bin\Debug\net5.0\MediatR.dll
+C:\Users\rikus\Desktop\repos\RouletteAPI\bin\Debug\net5.0\MediatR.Contracts.dll
+C:\Users\rikus\Desktop\repos\RouletteAPI\bin\Debug\net5.0\System.Data.SQLite.dll
+C:\Users\rikus\Desktop\repos\RouletteAPI\bin\Debug\net5.0\runtimes\linux-x64\native\SQLite.Interop.dll
+C:\Users\rikus\Desktop\repos\RouletteAPI\bin\Debug\net5.0\runtimes\osx-x64\native\SQLite.Interop.dll
+C:\Users\rikus\Desktop\repos\RouletteAPI\bin\Debug\net5.0\runtimes\win-x64\native\SQLite.Interop.dll
+C:\Users\rikus\Desktop\repos\RouletteAPI\bin\Debug\net5.0\runtimes\win-x86\native\SQLite.Interop.dll
+C:\Users\rikus\Desktop\repos\RouletteAPI\bin\Debug\net5.0\RoulettePlatform.dll
+C:\Users\rikus\Desktop\repos\RouletteAPI\bin\Debug\net5.0\RoulettePlatform.pdb
+C:\Users\rikus\Desktop\repos\RouletteAPI\bin\Debug\net5.0\MediatR.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\rikus\Desktop\repos\RouletteAPI\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\rikus\Desktop\New folder\Step 2 – Web API\repos\RouletteAPI\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\rikus\Desktop\New folder\Step 2 – Web API\repos\RouletteAPI\bin\Debug\net5.0\appsettings.json
+C:\Users\rikus\Desktop\New folder\Step 2 – Web API\repos\RouletteAPI\bin\Debug\net5.0\RouletteAPI.exe
+C:\Users\rikus\Desktop\New folder\Step 2 – Web API\repos\RouletteAPI\bin\Debug\net5.0\RouletteAPI.deps.json
+C:\Users\rikus\Desktop\New folder\Step 2 – Web API\repos\RouletteAPI\bin\Debug\net5.0\RouletteAPI.runtimeconfig.json
+C:\Users\rikus\Desktop\New folder\Step 2 – Web API\repos\RouletteAPI\bin\Debug\net5.0\RouletteAPI.runtimeconfig.dev.json
+C:\Users\rikus\Desktop\New folder\Step 2 – Web API\repos\RouletteAPI\bin\Debug\net5.0\RouletteAPI.dll
+C:\Users\rikus\Desktop\New folder\Step 2 – Web API\repos\RouletteAPI\bin\Debug\net5.0\RouletteAPI.pdb
+C:\Users\rikus\Desktop\New folder\Step 2 – Web API\repos\RouletteAPI\bin\Debug\net5.0\Dapper.dll
+C:\Users\rikus\Desktop\New folder\Step 2 – Web API\repos\RouletteAPI\bin\Debug\net5.0\MediatR.dll
+C:\Users\rikus\Desktop\New folder\Step 2 – Web API\repos\RouletteAPI\bin\Debug\net5.0\MediatR.Contracts.dll
+C:\Users\rikus\Desktop\New folder\Step 2 – Web API\repos\RouletteAPI\bin\Debug\net5.0\MediatR.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\rikus\Desktop\New folder\Step 2 – Web API\repos\RouletteAPI\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\rikus\Desktop\New folder\Step 2 – Web API\repos\RouletteAPI\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\rikus\Desktop\New folder\Step 2 – Web API\repos\RouletteAPI\bin\Debug\net5.0\System.Data.SQLite.dll
+C:\Users\rikus\Desktop\New folder\Step 2 – Web API\repos\RouletteAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\rikus\Desktop\New folder\Step 2 – Web API\repos\RouletteAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\rikus\Desktop\New folder\Step 2 – Web API\repos\RouletteAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\rikus\Desktop\New folder\Step 2 – Web API\repos\RouletteAPI\bin\Debug\net5.0\runtimes\linux-x64\native\SQLite.Interop.dll
+C:\Users\rikus\Desktop\New folder\Step 2 – Web API\repos\RouletteAPI\bin\Debug\net5.0\runtimes\osx-x64\native\SQLite.Interop.dll
+C:\Users\rikus\Desktop\New folder\Step 2 – Web API\repos\RouletteAPI\bin\Debug\net5.0\runtimes\win-x64\native\SQLite.Interop.dll
+C:\Users\rikus\Desktop\New folder\Step 2 – Web API\repos\RouletteAPI\bin\Debug\net5.0\runtimes\win-x86\native\SQLite.Interop.dll
+C:\Users\rikus\Desktop\New folder\Step 2 – Web API\repos\RouletteAPI\bin\Debug\net5.0\RoulettePlatform.dll
+C:\Users\rikus\Desktop\New folder\Step 2 – Web API\repos\RouletteAPI\bin\Debug\net5.0\RoulettePlatform.pdb
+C:\Users\rikus\Desktop\New folder\Step 2 – Web API\repos\RouletteAPI\obj\Debug\net5.0\RouletteAPI.csproj.AssemblyReference.cache
+C:\Users\rikus\Desktop\New folder\Step 2 – Web API\repos\RouletteAPI\obj\Debug\net5.0\RouletteAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rikus\Desktop\New folder\Step 2 – Web API\repos\RouletteAPI\obj\Debug\net5.0\RouletteAPI.AssemblyInfoInputs.cache
+C:\Users\rikus\Desktop\New folder\Step 2 – Web API\repos\RouletteAPI\obj\Debug\net5.0\RouletteAPI.AssemblyInfo.cs
+C:\Users\rikus\Desktop\New folder\Step 2 – Web API\repos\RouletteAPI\obj\Debug\net5.0\RouletteAPI.csproj.CoreCompileInputs.cache
+C:\Users\rikus\Desktop\New folder\Step 2 – Web API\repos\RouletteAPI\obj\Debug\net5.0\RouletteAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\rikus\Desktop\New folder\Step 2 – Web API\repos\RouletteAPI\obj\Debug\net5.0\RouletteAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\rikus\Desktop\New folder\Step 2 – Web API\repos\RouletteAPI\obj\Debug\net5.0\scopedcss\bundle\RouletteAPI.styles.css
+C:\Users\rikus\Desktop\New folder\Step 2 – Web API\repos\RouletteAPI\obj\Debug\net5.0\staticwebassets\RouletteAPI.StaticWebAssets.Manifest.cache
+C:\Users\rikus\Desktop\New folder\Step 2 – Web API\repos\RouletteAPI\obj\Debug\net5.0\staticwebassets\RouletteAPI.StaticWebAssets.Pack.cache
+C:\Users\rikus\Desktop\New folder\Step 2 – Web API\repos\RouletteAPI\obj\Debug\net5.0\staticwebassets\msbuild.RouletteAPI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\rikus\Desktop\New folder\Step 2 – Web API\repos\RouletteAPI\obj\Debug\net5.0\staticwebassets\msbuild.build.RouletteAPI.props
+C:\Users\rikus\Desktop\New folder\Step 2 – Web API\repos\RouletteAPI\obj\Debug\net5.0\staticwebassets\msbuild.buildMultiTargeting.RouletteAPI.props
+C:\Users\rikus\Desktop\New folder\Step 2 – Web API\repos\RouletteAPI\obj\Debug\net5.0\staticwebassets\msbuild.buildTransitive.RouletteAPI.props
+C:\Users\rikus\Desktop\New folder\Step 2 – Web API\repos\RouletteAPI\obj\Debug\net5.0\RouletteAPI.RazorTargetAssemblyInfo.cache
+C:\Users\rikus\Desktop\New folder\Step 2 – Web API\repos\RouletteAPI\obj\Debug\net5.0\RouletteAPI.csproj.CopyComplete
+C:\Users\rikus\Desktop\New folder\Step 2 – Web API\repos\RouletteAPI\obj\Debug\net5.0\RouletteAPI.dll
+C:\Users\rikus\Desktop\New folder\Step 2 – Web API\repos\RouletteAPI\obj\Debug\net5.0\refint\RouletteAPI.dll
+C:\Users\rikus\Desktop\New folder\Step 2 – Web API\repos\RouletteAPI\obj\Debug\net5.0\RouletteAPI.pdb
+C:\Users\rikus\Desktop\New folder\Step 2 – Web API\repos\RouletteAPI\obj\Debug\net5.0\RouletteAPI.genruntimeconfig.cache
+C:\Users\rikus\Desktop\New folder\Step 2 – Web API\repos\RouletteAPI\obj\Debug\net5.0\ref\RouletteAPI.dll
+C:\Users\rikus\Desktop\Assesment Rikus de Beer\Step 2 – Web API\repos\RouletteAPI\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\rikus\Desktop\Assesment Rikus de Beer\Step 2 – Web API\repos\RouletteAPI\bin\Debug\net5.0\appsettings.json
+C:\Users\rikus\Desktop\Assesment Rikus de Beer\Step 2 – Web API\repos\RouletteAPI\bin\Debug\net5.0\RouletteAPI.exe
+C:\Users\rikus\Desktop\Assesment Rikus de Beer\Step 2 – Web API\repos\RouletteAPI\bin\Debug\net5.0\RouletteAPI.deps.json
+C:\Users\rikus\Desktop\Assesment Rikus de Beer\Step 2 – Web API\repos\RouletteAPI\bin\Debug\net5.0\RouletteAPI.runtimeconfig.json
+C:\Users\rikus\Desktop\Assesment Rikus de Beer\Step 2 – Web API\repos\RouletteAPI\bin\Debug\net5.0\RouletteAPI.runtimeconfig.dev.json
+C:\Users\rikus\Desktop\Assesment Rikus de Beer\Step 2 – Web API\repos\RouletteAPI\bin\Debug\net5.0\RouletteAPI.dll
+C:\Users\rikus\Desktop\Assesment Rikus de Beer\Step 2 – Web API\repos\RouletteAPI\bin\Debug\net5.0\RouletteAPI.pdb
+C:\Users\rikus\Desktop\Assesment Rikus de Beer\Step 2 – Web API\repos\RouletteAPI\bin\Debug\net5.0\Dapper.dll
+C:\Users\rikus\Desktop\Assesment Rikus de Beer\Step 2 – Web API\repos\RouletteAPI\bin\Debug\net5.0\MediatR.dll
+C:\Users\rikus\Desktop\Assesment Rikus de Beer\Step 2 – Web API\repos\RouletteAPI\bin\Debug\net5.0\MediatR.Contracts.dll
+C:\Users\rikus\Desktop\Assesment Rikus de Beer\Step 2 – Web API\repos\RouletteAPI\bin\Debug\net5.0\MediatR.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\rikus\Desktop\Assesment Rikus de Beer\Step 2 – Web API\repos\RouletteAPI\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\rikus\Desktop\Assesment Rikus de Beer\Step 2 – Web API\repos\RouletteAPI\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\rikus\Desktop\Assesment Rikus de Beer\Step 2 – Web API\repos\RouletteAPI\bin\Debug\net5.0\System.Data.SQLite.dll
+C:\Users\rikus\Desktop\Assesment Rikus de Beer\Step 2 – Web API\repos\RouletteAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\rikus\Desktop\Assesment Rikus de Beer\Step 2 – Web API\repos\RouletteAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\rikus\Desktop\Assesment Rikus de Beer\Step 2 – Web API\repos\RouletteAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\rikus\Desktop\Assesment Rikus de Beer\Step 2 – Web API\repos\RouletteAPI\bin\Debug\net5.0\runtimes\linux-x64\native\SQLite.Interop.dll
+C:\Users\rikus\Desktop\Assesment Rikus de Beer\Step 2 – Web API\repos\RouletteAPI\bin\Debug\net5.0\runtimes\osx-x64\native\SQLite.Interop.dll
+C:\Users\rikus\Desktop\Assesment Rikus de Beer\Step 2 – Web API\repos\RouletteAPI\bin\Debug\net5.0\runtimes\win-x64\native\SQLite.Interop.dll
+C:\Users\rikus\Desktop\Assesment Rikus de Beer\Step 2 – Web API\repos\RouletteAPI\bin\Debug\net5.0\runtimes\win-x86\native\SQLite.Interop.dll
+C:\Users\rikus\Desktop\Assesment Rikus de Beer\Step 2 – Web API\repos\RouletteAPI\bin\Debug\net5.0\RoulettePlatform.dll
+C:\Users\rikus\Desktop\Assesment Rikus de Beer\Step 2 – Web API\repos\RouletteAPI\bin\Debug\net5.0\RoulettePlatform.pdb
+C:\Users\rikus\Desktop\Assesment Rikus de Beer\Step 2 – Web API\repos\RouletteAPI\obj\Debug\net5.0\RouletteAPI.csproj.AssemblyReference.cache
+C:\Users\rikus\Desktop\Assesment Rikus de Beer\Step 2 – Web API\repos\RouletteAPI\obj\Debug\net5.0\RouletteAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rikus\Desktop\Assesment Rikus de Beer\Step 2 – Web API\repos\RouletteAPI\obj\Debug\net5.0\RouletteAPI.AssemblyInfoInputs.cache
+C:\Users\rikus\Desktop\Assesment Rikus de Beer\Step 2 – Web API\repos\RouletteAPI\obj\Debug\net5.0\RouletteAPI.AssemblyInfo.cs
+C:\Users\rikus\Desktop\Assesment Rikus de Beer\Step 2 – Web API\repos\RouletteAPI\obj\Debug\net5.0\RouletteAPI.csproj.CoreCompileInputs.cache
+C:\Users\rikus\Desktop\Assesment Rikus de Beer\Step 2 – Web API\repos\RouletteAPI\obj\Debug\net5.0\RouletteAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\rikus\Desktop\Assesment Rikus de Beer\Step 2 – Web API\repos\RouletteAPI\obj\Debug\net5.0\RouletteAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\rikus\Desktop\Assesment Rikus de Beer\Step 2 – Web API\repos\RouletteAPI\obj\Debug\net5.0\scopedcss\bundle\RouletteAPI.styles.css
+C:\Users\rikus\Desktop\Assesment Rikus de Beer\Step 2 – Web API\repos\RouletteAPI\obj\Debug\net5.0\staticwebassets\RouletteAPI.StaticWebAssets.Manifest.cache
+C:\Users\rikus\Desktop\Assesment Rikus de Beer\Step 2 – Web API\repos\RouletteAPI\obj\Debug\net5.0\staticwebassets\RouletteAPI.StaticWebAssets.Pack.cache
+C:\Users\rikus\Desktop\Assesment Rikus de Beer\Step 2 – Web API\repos\RouletteAPI\obj\Debug\net5.0\staticwebassets\msbuild.RouletteAPI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\rikus\Desktop\Assesment Rikus de Beer\Step 2 – Web API\repos\RouletteAPI\obj\Debug\net5.0\staticwebassets\msbuild.build.RouletteAPI.props
+C:\Users\rikus\Desktop\Assesment Rikus de Beer\Step 2 – Web API\repos\RouletteAPI\obj\Debug\net5.0\staticwebassets\msbuild.buildMultiTargeting.RouletteAPI.props
+C:\Users\rikus\Desktop\Assesment Rikus de Beer\Step 2 – Web API\repos\RouletteAPI\obj\Debug\net5.0\staticwebassets\msbuild.buildTransitive.RouletteAPI.props
+C:\Users\rikus\Desktop\Assesment Rikus de Beer\Step 2 – Web API\repos\RouletteAPI\obj\Debug\net5.0\RouletteAPI.RazorTargetAssemblyInfo.cache
+C:\Users\rikus\Desktop\Assesment Rikus de Beer\Step 2 – Web API\repos\RouletteAPI\obj\Debug\net5.0\RouletteAPI.csproj.CopyComplete
+C:\Users\rikus\Desktop\Assesment Rikus de Beer\Step 2 – Web API\repos\RouletteAPI\obj\Debug\net5.0\RouletteAPI.dll
+C:\Users\rikus\Desktop\Assesment Rikus de Beer\Step 2 – Web API\repos\RouletteAPI\obj\Debug\net5.0\refint\RouletteAPI.dll
+C:\Users\rikus\Desktop\Assesment Rikus de Beer\Step 2 – Web API\repos\RouletteAPI\obj\Debug\net5.0\RouletteAPI.pdb
+C:\Users\rikus\Desktop\Assesment Rikus de Beer\Step 2 – Web API\repos\RouletteAPI\obj\Debug\net5.0\RouletteAPI.genruntimeconfig.cache
+C:\Users\rikus\Desktop\Assesment Rikus de Beer\Step 2 – Web API\repos\RouletteAPI\obj\Debug\net5.0\ref\RouletteAPI.dll

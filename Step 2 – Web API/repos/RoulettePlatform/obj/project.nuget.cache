@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "nXqjB54jAuWQWlkw9pr+lZllKqnQiXfjX8OyCYGIuRtSeGCxxQk7M7FZGo8DYpJ/D322/bZe/Im6yLclCP3Y3Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\rikus\\Desktop\\Assesment Rikus de Beer\\Step 2 – Web API\\repos\\RoulettePlatform\\RoulettePlatform.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\rikus\\.nuget\\packages\\dapper\\2.0.123\\dapper.2.0.123.nupkg.sha512",
+    "C:\\Users\\rikus\\.nuget\\packages\\mediatr\\11.1.0\\mediatr.11.1.0.nupkg.sha512",
+    "C:\\Users\\rikus\\.nuget\\packages\\mediatr.contracts\\1.0.1\\mediatr.contracts.1.0.1.nupkg.sha512",
+    "C:\\Users\\rikus\\.nuget\\packages\\mediatr.extensions.microsoft.dependencyinjection\\11.0.0\\mediatr.extensions.microsoft.dependencyinjection.11.0.0.nupkg.sha512",
+    "C:\\Users\\rikus\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\rikus\\.nuget\\packages\\stub.system.data.sqlite.core.netstandard\\1.0.117\\stub.system.data.sqlite.core.netstandard.1.0.117.nupkg.sha512",
+    "C:\\Users\\rikus\\.nuget\\packages\\system.data.sqlite.core\\1.0.117\\system.data.sqlite.core.1.0.117.nupkg.sha512"
+  ],
+  "logs": []
+}
